@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Iam CHIRAG
+- 🔭 I’m currently working as intern at zephyr technologies and solutions pvt.ltd.
+- - 🌱 I’m currently learning data science and python full stack at zephyr and microdegree learning
 <!--
 **chirag04998/chirag04998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
